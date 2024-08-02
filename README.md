@@ -1,4 +1,4 @@
-<h2 align="left">Bem-vindo ao Meu Perfil do GitHub!<br>Olá! 👋<br><br>Eu sou Peter Abenza, um entusiasta de programação apaixonado por desenvolvimento de software. Atualmente, estou focado em Java e JavaScript, mas estou sempre em busca de novos desafios e oportunidades para aprender e crescer. 🚀</h2>
+<h2 align="left">Olá! 👋<br><br>Eu sou Peter Abenza, um entusiasta de programação apaixonado por desenvolvimento de software. Atualmente, estou focado em Java e JavaScript, mas estou sempre em busca de novos desafios e oportunidades para aprender e crescer. 🚀</h2>
 
 ###
 
