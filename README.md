@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://th.bing.com/th/id/R.7d449472896798754da4f2d092f43876?rik=82J0gx8i3NpujA&pid=ImgRaw&r=0"  />
+  <img height="150" src="https://media.giphy.com/media/HMOQLh1qhLV04/giphy.gif"  />
 </div>
 
 ###
@@ -68,7 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PeterAbenza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterAbenza&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterAbenza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
