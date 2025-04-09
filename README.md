@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Explore meus projetos e contribuições.<br>Seja bem-vindo ao meu GitHub!</h1>
+<h1 align="center">Seja bem-vindo ao meu GitHub!</h1>
 
 ###
 
