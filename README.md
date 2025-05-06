@@ -1,7 +1,7 @@
 
 ## 📊 Minhas Contribuições em 3D
 
-![3D Contribution Graph](./images/profile-night-rainbow.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
