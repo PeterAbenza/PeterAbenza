@@ -1,7 +1,7 @@
 
 ## 📊 Minhas Contribuições em 3D
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Graph](./https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
 
 
