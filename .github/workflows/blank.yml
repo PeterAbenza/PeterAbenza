@@ -15,6 +15,8 @@ jobs:
 
       - name: Generate GitHub profile 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Usando o PAT
 
       - name: Commit & Push
         run: |
