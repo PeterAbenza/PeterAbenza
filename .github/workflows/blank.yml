@@ -17,6 +17,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Usando o PAT
+          USERNAME: "PeterAbenza"  # Adicione o seu nome de usuário do GitHub aqui
 
       - name: Commit & Push
         run: |
