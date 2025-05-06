@@ -1,11 +1,5 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-
-<div align="center">
-   <img height="150" src="https://media.giphy.com/media/HMOQLh1qhLV04/giphy.gif"  />
- </div>
- 
  ###
  
  <div align="center">
